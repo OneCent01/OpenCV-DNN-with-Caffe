@@ -10,11 +10,10 @@ Requirements:
 
   1. numpy 
   - easily pip/pip3 installed 
-  2. OpenCV
-  - full library must be installed and available to import as 
-  3. cv2
-  - can be easily installed via python with the package opencv-python 
-  4. Jupyter
+  2. OpenCV 
+  - full library must be installed and available to import as cv2
+  - ceasily pip/pip3 installed with opencv-python 
+  3. Jupyter
   - easily pip/pip3 installed 
     
 Running it: 
